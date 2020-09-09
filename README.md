@@ -39,3 +39,6 @@ In this module, we start by introducing the idea of Component-based architecture
 Module 5 - Form Validation, Testing, and Restaurant Site Development
 
 Welcome to module 5! This is the last module in the course. We'll start this module by learning just how easy it is to validate forms with Angular. We will then delve into unit testing our AngularJS code. We will go over how to set up tests for every type of major Angular artifact: controller, service, directive, and component, as well as how to test services that access the network through the HTTP service. However, the last part of the module is the most fun. We will take the site that was developed for our real client in my previous course and re-write the entire thing using AngularJS. However, the coding fun doesn't have to stop there. After you finish the required part of the course, you can move on to the optional bonus part where we take our newly developed AngularJS application and enhance with it even more features that will allow the restaurant owners to administer their own data. We'll go over setting up authentication, editing restaurant menu items, uploading menu item pictures and so on.
+
+
+# Final Outcome : https://srijaarumalla.github.io/Single-Page-Web-Applications-with-AngularJS/Module5/#/
